@@ -1,1 +1,1 @@
-This website shows the rating information and other details for each movies . Feel free to check it out!
+# This website shows the rating information and other details for each movies . Feel free to check it out!
